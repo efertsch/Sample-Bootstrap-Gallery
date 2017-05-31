@@ -3,6 +3,11 @@
   flex-wrap: wrap;
 }*/
 
-.camera-icon {
-	margin-top: 100px;
+body {
+	padding-top: 70px;
+	background: #BBB09B;
+}
+
+nav {
+	background: #3E2A35;
 }

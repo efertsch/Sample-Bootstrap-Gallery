@@ -8,6 +8,14 @@ body {
 	background: #BBB09B;
 }
 
-nav {
+.navbar {
 	background: #3E2A35;
+}
+
+#camera-icon {
+	color: #E26D5A;
+}
+
+p {
+	color:#3E2A35;;
 }

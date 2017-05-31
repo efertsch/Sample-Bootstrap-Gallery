@@ -12,10 +12,22 @@ body {
 	background: #3E2A35;
 }
 
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
 #camera-icon {
 	color: #E26D5A;
 }
 
-p {
+/*p {
 	color:#3E2A35;;
+}*/
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+#pic-icon {
+	color: #E26D5A;
 }

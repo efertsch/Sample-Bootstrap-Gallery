@@ -1,4 +1,8 @@
-.flex {
+/*.flex {
   display: flex;
   flex-wrap: wrap;
+}*/
+
+.camera-icon {
+	margin-top: 100px;
 }
